@@ -16,6 +16,10 @@
     <includeExpandingText type="boolean">true</includeExpandingText>
     <includeDropdownText type="boolean">true</includeDropdownText>
     <relativeOutputPath type="boolean">false</relativeOutputPath>
+    <variable>
+      <path></path>
+      <name></name>
+    </variable>
   </content>
   <starterPage>index.htm</starterPage>
   <search>

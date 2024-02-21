@@ -14,6 +14,10 @@
     <brs type="array"></brs>
     <mapFiles type="array"></mapFiles>
     <relativeOutputPath type="boolean">false</relativeOutputPath>
+    <variable>
+      <path></path>
+      <name></name>
+    </variable>
   </content>
   <starterPage>index.htm</starterPage>
   <search>

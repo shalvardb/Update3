@@ -12,6 +12,10 @@
     <includeDropdownText type="boolean">false</includeDropdownText>
     <relativeOutputPath type="boolean">false</relativeOutputPath>
     <includereftopics type="boolean">true</includereftopics>
+    <variable>
+      <path></path>
+      <name></name>
+    </variable>
   </content>
   <starterPage>Default.pdf</starterPage>
   <search>
